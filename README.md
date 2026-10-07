@@ -1,3 +1,14 @@
 # ControleBiblioteca
 Aluno: Sergio William
-Descrição: Aplicativo para gerenciar o acervo de uma biblioteca, com cadastro de livros e controle de empréstimos.
+
+## Objetivo
+Sistema para gerenciar o acervo de uma biblioteca, facilitando o controle de empréstimos e devoluções.
+
+## Público-alvo
+Bibliotecários e atendentes de bibliotecas escolares ou públicas.
+
+## Principais funcionalidades
+- Cadastro de livros
+- Empréstimo e devolução
+- Renovação de empréstimo
+- Consulta de disponibilidade
